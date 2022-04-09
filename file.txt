@@ -1,1 +1,2 @@
 text song first line
+second line was added to the file
